@@ -1,3 +1,6 @@
 #a Hello Good moring this app,py file which is container a print value
+<<<<<<< HEAD
+print("new")
+=======
 print("aryan")
-this is for pr  requret part of learning
+>>>>>>> newbranch
