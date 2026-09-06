@@ -1,2 +1,1 @@
-for new commitu
-print("Hello")
+This is from git revision 24 Hours
