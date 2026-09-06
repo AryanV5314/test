@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+age=27
+=======
 age=26
+>>>>>>> mergebranch
 
 new branch change
 This is from git revision 24 Hours
