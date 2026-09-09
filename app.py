@@ -1,3 +1,6 @@
+this is for todays topic git commit --amend
+
+
 age=26
 new change for --no-ff commit of understanding commit in fast-forward merge
 new branch change
